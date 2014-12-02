@@ -12,3 +12,4 @@ HumHub is a flexible open source social network application written in PHP.
 
 - <a href="protected/docs/license.md">License: Dual license AGPL v3 / Proprietary</a>
 
+change here
